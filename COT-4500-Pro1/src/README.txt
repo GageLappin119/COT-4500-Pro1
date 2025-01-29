@@ -9,7 +9,7 @@ Contains implementations of algorithms from Chapter 2
 ## How to Use
 ### Install Dependencies
 1. Ensure you have Python installed (3.6 or higher).
-2. Install required dependencies:
+2. Install required dependencies (from within the src folder):
    pip install -r requirements.txt
 3. Change the values of the required variables in each function (within test_assignments_1.py) to ensure desired    output.
       The variables that need to be given for the function to work as intended are the 
