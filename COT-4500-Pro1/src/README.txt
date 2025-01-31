@@ -14,7 +14,7 @@ Contains implementations of algorithms from Chapter 2
 3. Change the values of the required variables in each function (within test_assignments_1.py) to ensure desired output.
       The variables that need to be given for the function to work as intended are the 
       parameters for each function provided below.
-4. By default, each function will be turned on, change the boolean value to true to see the output for the desired algorithm
+4. By default, each function will be turned on, change the boolean value (located at the top of each function in the test file) to true to see the output for the desired algorithm
 5. In order to run program, go inside test folder and run python3 test_assignments_1.py, default values have been provided.
 
 1.1 Approximation Algorithm
